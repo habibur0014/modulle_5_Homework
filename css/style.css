@@ -1,0 +1,40 @@
+body{}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 45px;
+}
+h3{
+    font-size: 40px;
+}
+h4{
+    font-size: 20px !important;
+}
+p{
+    font-size: 18px;
+}
+button{
+    background: linear-gradient( 180deg, rgb(182, 40, 40), rgb(238, 6, 238));
+    width: 100px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+
+}
+.banner{}
+.hero_banner{}
+.banner_image{
+    width: 100%;
+}
+.banner_image img{
+    width: ;
+}
+
+.banner_content_part{}
+.banner_content{}
+.banner_content h3{}
+.banner_content h2{}
+.banner_content p{
+    width: 
+}
