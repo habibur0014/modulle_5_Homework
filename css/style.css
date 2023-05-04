@@ -1,23 +1,28 @@
 body{
-    background: ;
+    background: white;
+    font-family: 'Ubuntu', sans-serif;
 }
 h1{
     font-size: 50px;
+    font-weight: 700;
 }
 h2{
     font-size: 45px;
+    font-weight: 700;
 }
 h3{
     font-size: 40px;
+    font-weight: 700;
 }
 h4{
     font-size: 20px !important;
 }
 p{
     font-size: 18px;
+    color: black;
 }
 button{
-    background: linear-gradient( 180deg, rgb(182, 40, 40), rgb(238, 6, 238));
+    background: linear-gradient(180deg, #ed4b70, rgb(238, 6, 238));
     width: 100px;
     height: 35px;
     color: white;
@@ -40,7 +45,6 @@ img{
 .img_size1{
     margin-left: 150px;
 }
-
 .header_banner{
     background: url(../images/header-bg.png);
     background-repeat: no-repeat;
@@ -50,8 +54,13 @@ img{
    background: url(../images/biography-bg.png); 
    background-repeat: no-repeat;
    background-size: cover;
-   
+
 }
 .my_latest_work{
     margin-top: 50px;
+}
+.client{
+    background: url(../images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
